@@ -353,7 +353,7 @@ experienceStory: "As we approached the final summit ridge, dense mist rolled in 
     ],
     lessonsLearned: "Night treks need slow movement. Rushing raises fatigue and missteps. Small 2-minute dynamic breaks at rock plateaus keep stamina steady.",
     description: "Beautiful twin rocky hills overlooking agricultural fields in Pandavapura, famous for night climbing and lake-side camping.",
-    imageUrl: "src/images/kunti1.jpg",
+    imageUrl: "src/images/kunti01.jpg",
     gallery: [
       "src/images/KuntiBetta.jpg"
     ],
