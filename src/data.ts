@@ -35,7 +35,7 @@ export const TIMELINE_DATA: TimelineEvent[] = [
     title: "The First Ascent",
     trekName: "Skandagiri & Makalidurga",
     description: "Began journey as an apprentice trek leader to study South Indian trail architectures, managing batches of 30+ trekkers under the supervision of state-certified guides.",
-    imageUrl: "src/images/WhatsApp Image 2026-06-10 at 12.10.17 PM.jpeg",
+    imageUrl: "public/images/WhatsApp Image 2026-06-10 at 12.10.17 PM.jpeg",
     category: "Milestone"
   },
   {
@@ -43,7 +43,7 @@ export const TIMELINE_DATA: TimelineEvent[] = [
     title: "Caving & Midnight Operations",
     trekName: "Antharagange & Kaiwara Betta",
     description: "Led complex technical night treks. Developed mastery in coordinating volcanic cave crawling, headlamp navigation, and midnight medical logistics.",
-    imageUrl: "src/images/kaiwara.jpg",
+    imageUrl: "public/images/kaiwara.jpg",
     category: "Trek"
   },
   {
@@ -51,7 +51,7 @@ export const TIMELINE_DATA: TimelineEvent[] = [
     title: "Steep Rocky Slabs Coordination",
     trekName: "Savandurga & Shivagange",
     description: "Conquered extreme steep-gradient coordination. Guided massive batches of corporate employees across Asia's largest monoliths, managing slip hazards and hydration cycles.",
-    imageUrl: "src/images/Shivagange.jpeg",
+    imageUrl: "public/images/Shivagange.jpeg",
     category: "Trek"
   },
   {
@@ -59,7 +59,7 @@ export const TIMELINE_DATA: TimelineEvent[] = [
     title: "Transition to Western Ghats High Peaks",
     trekName: "Nethravathi Peak & Kurinjal",
     description: "Elevated leading credentials to technical forest reserves. Handled Karnataka forest department permits, severe monsoon mudflows, and pristine high-altitude ridge navigation.",
-    imageUrl: "src/images/Nethravathi peak.jpg",
+    imageUrl: "public/images/Nethravathi peak.jpg",
     category: "Milestone"
   },
   {
@@ -67,7 +67,7 @@ export const TIMELINE_DATA: TimelineEvent[] = [
     title: "Epic Grassland Leadership",
     trekName: "Kudremukha & Bandaje Falls",
     description: "Led multiple high-difficulty multi-day monsoon expeditions. Managed leech infestations, severe downpours, river crossings, and peak summit time windows.",
-    imageUrl: "src/images/Kudremukha.jpg",
+    imageUrl: "public/images/Kudremukha.jpg",
     category: "Trek"
   },
   {
@@ -75,7 +75,7 @@ export const TIMELINE_DATA: TimelineEvent[] = [
     title: "Senior Outdoor Specialist",
     trekName: "Himalayan Training prep",
     description: "Currently structuring elite high-elevation training. Merging outdoor leadership protocols with software-based logistics models for advanced expedition planning.",
-    imageUrl: "src/images/himalayan.png",
+    imageUrl: "public/images/himalayan.png",
     category: "Certification"
   }
 ];
@@ -99,11 +99,11 @@ export const TREKS_DATA: Trek[] = [
     ],
     lessonsLearned: "Patience and constant check-ins build extreme confidence. In high-wind zones, keeping the group low and moving in a single compact file reduces wind drag and panic.",
     description: "Featuring rolling green meadows reminiscent of Swiss Alps, Nethravathi Peak is a conserved botanical heaven with absolute vertical ridge drops.",
-    imageUrl: "src/images/IMG-20251130-WA0012.jpg",
+    imageUrl: "public/images/IMG-20251130-WA0012.jpg",
     gallery: [
-      "src/images/IMG-20250825-WA0132.jpg",
-      "src/images/IMG-20250810-WA0162.jpg",
-      "src/images/1000053087.jpeg"
+      "public/images/IMG-20250825-WA0132.jpg",
+      "public/images/IMG-20250810-WA0062.jpg",
+      "public/images/1000053087.jpeg"
     ],
     experienceStory: "Reaching the Nethravathi ridge was the highlight. The valleys on either side were submerged under an ocean of moving white clouds. My challenge was to keep participants focused on their step coordination while they were completely overwhelmed by the mesmerizing visuals."
   },
@@ -125,7 +125,7 @@ export const TREKS_DATA: Trek[] = [
     ],
     lessonsLearned: "Always respect the local guidelines. If the river swells beyond absolute safety thresholds, a leader must be ready to abort immediately. Fortunately, our timed ascent avoided the flash floods.",
     description: "Named after its horseshoe-shaped peak, Kudremukha is a biodiversity hotspot with deep shola forests and majestic mist-laden green slope patterns.",
-    imageUrl: "src/images/Kudremukha.jpg",
+    imageUrl: "public/images/Kudremukha.jpg",
     gallery: [
       "https://images.unsplash.com/photo-1441974231531-c6227db76b6e?auto=format&fit=crop&w=600&q=80",
       "https://images.unsplash.com/photo-1528164344705-47542687000d?auto=format&fit=crop&w=600&q=80",
@@ -151,10 +151,10 @@ export const TREKS_DATA: Trek[] = [
     ],
     lessonsLearned: "Weight management is the difference between peak exhaustion and a successful multi-day. We transitioned to high-calorie lightweight dehydrated rations to save 8kg.",
     description: "An unbelievable trek passing through deep shade forest leading to a 200ft vertical waterfall edge overlooking the vast Dakshina Kannada hills.",
-    imageUrl: "src/images/Bandaje2.jpg",
+    imageUrl: "public/images/Bandaje2.jpg",
     gallery: [
-      "src/images/Bandaje1.jpg",
-      "src/images/Bandaje.jpg"
+      "public/images/Bandaje1.jpg",
+      "public/images/Bandaje.jpg"
     ],
     experienceStory: "Sleeping beside the crashing roar of the Bandaje waterfall on Top and watching the sunset ignite the Arabian sea horizon in the far distance was mystical. Camp organization required absolute precision to keep campers away from the dangerous cliff edge."
   },
@@ -178,10 +178,10 @@ leadershipResponsibilities: [
 ],
 lessonsLearned: "Tadiandamol reinforced the importance of weather awareness, pace management, and maintaining team cohesion on long mountain routes. Leadership is not just about reaching the summit but ensuring every participant enjoys a safe and memorable journey.",
 description: "The highest peak in Coorg and the third-highest peak in Karnataka, offering breathtaking panoramic views of the Western Ghats, rolling grasslands, dense shola forests, and mist-covered mountain ridges.",
-imageUrl: "src/images/Tadiandamol2.jpeg",
+imageUrl: "public/images/Tadiandamol2.jpeg",
 gallery: [
-"src/images/Tadiandamol.jpeg",
-"src/images/tadiandamol1.jpeg"
+"public/images/Tadiandamol.jpeg",
+"public/images/tadiandamol1.jpeg"
 ],
 experienceStory: "As our group approached the final ridge section, dense clouds rapidly engulfed the trail and visibility dropped significantly. Using predefined regrouping protocols, I gathered the team, reassessed conditions, and guided everyone safely to the summit. When the clouds briefly parted, the trekkers were rewarded with spectacular views of the Western Ghats stretching endlessly into the horizon. The experience highlighted how preparation and calm decision-making can transform uncertainty into an unforgettable mountain memory."
 },
@@ -203,7 +203,7 @@ experienceStory: "As our group approached the final ridge section, dense clouds 
     ],
     lessonsLearned: "Night navigation requires a different spatial perspective. Leaders must overestimate trek duration and check up on physical fatigue levels twice as frequently.",
     description: "Also known as Kalavara Durga, it's famous for its dramatic sunrise above a thick sea of early morning low-altitude clouds.",
-    imageUrl: "src/images/WhatsApp Image 2026-06-10 at 12.10.17 PM.jpeg",
+    imageUrl: "public/images/WhatsApp Image 2026-06-10 at 12.10.17 PM.jpeg",
     gallery: [
       "https://images.unsplash.com/photo-1509114397022-ed747cca3f65?auto=format&fit=crop&w=600&q=80",
       "https://images.unsplash.com/photo-1490730141103-6cac27aaab94?auto=format&fit=crop&w=600&q=80"
@@ -228,10 +228,10 @@ experienceStory: "As our group approached the final ridge section, dense clouds 
     ],
     lessonsLearned: "A trek leader is also an educator. When trekkers are mentally engaged in historical stories, their metabolic exhaustion drops significantly.",
     description: "A scenic hill trek passing by a gorgeous lake and leading to ancient fort ruins sitting atop giant granite boulder faces.",
-    imageUrl: "src/images/Makalidurga0.jpeg",
+    imageUrl: "public/images/Makalidurga0.jpeg",
     gallery: [
-      "src/images/Mkl01.jpeg",
-      "src/images/mkl02.jpeg"
+      "public/images/Mkl01.jpeg",
+      "public/images/mkl02.jpeg"
     ],
     experienceStory: "The fort gate was framed by an incredible view of the gun-shaped Gundamagere lake below. Watching the train chug along the tracks from the fortress viewport felt like looking at a miniature living model."
   },
@@ -255,10 +255,10 @@ leadershipResponsibilities: [
 ],
 lessonsLearned: "Ettina Bhuja taught me that mountain leadership is about balancing adventure with safety. Proper pacing, clear communication, and situational awareness are critical when leading groups through exposed terrain.",
 description: "A spectacular peak in the Western Ghats known for its distinctive ox-shoulder shape, rolling green ridges, panoramic valley views, and dramatic cloud formations. The summit offers breathtaking views of surrounding peaks including Kudremukha and Netravathi ranges.",
-imageUrl: "src/images/et3.jpeg",
+imageUrl: "public/images/et3.jpeg",
 gallery: [
-"src/images/et1.jpeg",
-"src/images/et2.jpeg"
+"public/images/et1.jpeg",
+"public/images/et2.jpeg"
 ],
 experienceStory: "As we approached the final summit ridge, dense mist rolled in and visibility dropped significantly. Several participants became hesitant due to the steep drop-offs on either side of the trail. I regrouped the team, reinforced safety instructions, and guided everyone steadily across the ridge. When the clouds eventually cleared, the entire group witnessed a stunning panorama of the Western Ghats, making the challenging climb one of the most memorable experiences of the trek."
 }
@@ -281,7 +281,7 @@ experienceStory: "As we approached the final summit ridge, dense mist rolled in 
     ],
     lessonsLearned: "Never over-rely on memory for dynamic trails. Checking satellite GPX data ensures zero backtracking, reducing group frustration.",
     description: "Rich with dynamic boulder landscapes and spectacular bird-watching viewpoints, Kaiwara provides a gorgeous wilderness climb.",
-    imageUrl: "src/images/kaiwara.jpg",
+    imageUrl: "public/images/kaiwara.jpg",
     gallery: [
       "https://images.unsplash.com/photo-1519681393784-d120267933ba?auto=format&fit=crop&w=600&q=80"
     ],
@@ -305,9 +305,9 @@ experienceStory: "As we approached the final summit ridge, dense mist rolled in 
     ],
     lessonsLearned: "On steep monoliths, shoe-sole choice is the boundary of life and safety. I now send automated guidelines detailing sole friction profiles before this trek.",
     description: "An behemoth block of black granite rise that presents a high-octane horizontal scaling challenge for hikers.",
-    imageUrl: "src/images/svd.jpg",
+    imageUrl: "public/images/svd.jpg",
     gallery: [
-      "src/images/svd1.jpgs"
+      "public/images/svd1.jpg"
     ],
     experienceStory: "A participant's shoe sole peeled off completely mid-slab in a steep section. I used high-tensile duct tape other tactical wraps from my backpack to bind the shoe securely to his foot, restoring total grip so he could climb down safely."
   },
@@ -329,9 +329,9 @@ experienceStory: "As we approached the final summit ridge, dense mist rolled in 
     ],
     lessonsLearned: "Wildlife conflicts are easily avoided through strict operational discipline. By ensuring no transparent items or food bags were visible, the monkeys completely ignored our group.",
     description: "A prominent hill shaped like a Shiva Linga, featuring steep rock faces with steel railings on ladders lead to the top temple.",
-    imageUrl: "src/images/Shivagange.jpeg",
+    imageUrl: "public/images/Antharagange.jpeg",
     gallery: [
-      "src/images/Antharagange.jpeg"
+      "public/images/Shivagange.jpeg"
     ],
     experienceStory: "Near the summit, a crowd of pilgrims panicked due to a monkey fight on the steel ladder. I stepped onto the outer safety rail, calmed my climbers, created a physical safety block, and moved our trekking team out of the bottleneck in quiet, disciplined intervals."
   },
@@ -353,28 +353,28 @@ experienceStory: "As we approached the final summit ridge, dense mist rolled in 
     ],
     lessonsLearned: "Night treks need slow movement. Rushing raises fatigue and missteps. Small 2-minute dynamic breaks at rock plateaus keep stamina steady.",
     description: "Beautiful twin rocky hills overlooking agricultural fields in Pandavapura, famous for night climbing and lake-side camping.",
-    imageUrl: "src/images/kunti01.jpg",
+    imageUrl: "public/images/kunti01.jpg",
     gallery: [
-      "src/images/KuntiBetta.jpg"
+      "public/images/KuntiBetta.jpg"
     ],
     experienceStory: "Summitting Kudremukha, Skandagiri, and Kunti Betta at night are completely distinct experiences. Kunti Betta rewards you with the view of Pandavapura lake shimmering like liquid silver in the full moonlight."
   }
 ];
 
 export const GALLERY_IMAGES = [
-  { url: "src/images/Bandaje.jpg", category: "Mountain Peaks", title: "Valley of Green Shadows", desc: "Mist Water fall" },
-  { url: "src/images/Kudremukha.jpg", category: "Mountain Peaks", title: "Kudremukha Dawn", desc: "Climbers silhouetted against the emerging orange cosmic horizon" },
-  { url: "src/images/IMG-20251130-WA0012.jpg", category: "Group Photos", title: "Peak Union", desc: "Monoj guiding the 27-member corporate squad at Nethravathi summit" },
-  { url: "src/images/camping.jpg", category: "Camping", title: "Alpine Outpost", desc: "Setup under the milky-way canopy near Bandaje Falls campground" },
-  { url: "src/images/abbefalls.jpg", category: "Nature Photography", title: "Beautiful falls", desc: "An amazing water falls soaked in coorg the Scotland of India" },
-  { url: "src/images/Nethravathi peak.jpg", category: "Nature Photography", title: "Dew on Moss", desc: "Stunning forest floor macro details off Nethravathi trails" },
-  { url: "src/images/tadiandamol1.jpeg", category: "Mountain Peaks", title: "Western Ghats Spine", desc: "Rolling grasslands reaching towards the cloud beds" },
-  { url: "src/images/sunrise.jpg", category: "Sunrise", title: "Mystic Cloud Seas", desc: "First light striking the puffy cloud sea at high-altitude Nandi Hills" },
-  { url: "src/images/WhatsApp Image 2026-06-10 at 12.10.17 PM.jpeg", category: "Sunrise", title: "Altitude isn't scary", desc: "4000+ ft is cool" },
-  { url: "src/images/g1.jpg", category: "Group Photos", title: "Peak Union", desc: "Monoj guiding the 25-member corporate squad at Uttaribetta Peak" },
-  { url: "src/images/KuntiBetta.jpg", category: "Group Photos", title: "Peak Union", desc: "Chilling with troop of 20 trekking enthusiasts at Skandagiri" },
-  { url: "src/images/leader.jpg", category: "Leadership Moments", title: "Instruction Time", desc: "Manoj Explaining troop the complete intinerary for two days" },
-  { url: "src/images/nf.jpg", category: "Nature Photography", title: "kalsa Hanging Bridge", desc: "One of the most Beautiful hanging bridge in Kudremukha range" },
+  { url: "public/images/Bandaje.jpg", category: "Mountain Peaks", title: "Valley of Green Shadows", desc: "Mist Water fall" },
+  { url: "public/images/Kudremukha.jpg", category: "Mountain Peaks", title: "Kudremukha Dawn", desc: "Climbers silhouetted against the emerging orange cosmic horizon" },
+  { url: "public/images/IMG-20251130-WA0012.jpg", category: "Group Photos", title: "Peak Union", desc: "Monoj guiding the 27-member corporate squad at Nethravathi summit" },
+  { url: "public/images/camping.jpg", category: "Camping", title: "Alpine Outpost", desc: "Setup under the milky-way canopy near Bandaje Falls campground" },
+  { url: "public/images/abbefalls.jpg", category: "Nature Photography", title: "Beautiful falls", desc: "An amazing water falls soaked in coorg the Scotland of India" },
+  { url: "public/images/Nethravathi peak.jpg", category: "Nature Photography", title: "Dew on Moss", desc: "Stunning forest floor macro details off Nethravathi trails" },
+  { url: "public/images/tadiandamol1.jpeg", category: "Mountain Peaks", title: "Western Ghats Spine", desc: "Rolling grasslands reaching towards the cloud beds" },
+  { url: "public/images/sunrise.jpg", category: "Sunrise", title: "Mystic Cloud Seas", desc: "First light striking the puffy cloud sea at high-altitude Nandi Hills" },
+  { url: "public/images/WhatsApp Image 2026-06-10 at 12.10.17 PM.jpeg", category: "Sunrise", title: "Altitude isn't scary", desc: "4000+ ft is cool" },
+  { url: "public/images/g1.jpg", category: "Group Photos", title: "Peak Union", desc: "Monoj guiding the 25-member corporate squad at Uttaribetta Peak" },
+  { url: "public/images/KuntiBetta.jpg", category: "Group Photos", title: "Peak Union", desc: "Chilling with troop of 20 trekking enthusiasts at Skandagiri" },
+  { url: "public/images/leader.jpg", category: "Leadership Moments", title: "Instruction Time", desc: "Manoj Explaining troop the complete intinerary for two days" },
+  { url: "public/images/nf.jpg", category: "Nature Photography", title: "kalsa Hanging Bridge", desc: "One of the most Beautiful hanging bridge in Kudremukha range" },
 
 ];
 
@@ -424,27 +424,27 @@ export const LEADERSHIP_STORIES: LeadershipStory[] = [
 export const MEMORY_BOOK = [
 {
 id: 1,
-imageUrl: "src/images/feedbacks/t1.jpeg"
+imageUrl: "public/images/feedbacks/t1.jpeg"
 },
 {
 id: 2,
-imageUrl: "src/images/feedbacks/t6.jpeg"
+imageUrl: "public/images/feedbacks/t6.jpeg"
 },
 {
 id: 3,
-imageUrl: "src/images/feedbacks/t4.jpeg"
+imageUrl: "public/images/feedbacks/t4.jpeg"
 },
 {
 id: 4,
-imageUrl: "src/images/feedbacks/t5.jpeg"
+imageUrl: "public/images/feedbacks/t5.jpeg"
 },
 {
 id: 5,
-imageUrl: "src/images/feedbacks/t2.jpeg"
+imageUrl: "public/images/feedbacks/t2.jpeg"
 },
 {
 id: 6,
-imageUrl: "src/images/feedbacks/t3.jpeg"
+imageUrl: "public/images/feedbacks/t3.jpeg"
 }
 ];
 
