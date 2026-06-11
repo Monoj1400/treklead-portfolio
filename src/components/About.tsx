@@ -48,7 +48,7 @@ export default function About() {
             The Explorer Profile
           </span>
           <h2 className="font-display font-black text-3xl sm:text-5xl text-[#f8f5f0] uppercase tracking-tight block">
-            Meet Monoj Kumar B K
+            Meet Manoj Kumar B K
           </h2>
           <div className="w-16 h-1 bg-[#1b4332] mx-auto mt-4" />
         </div>
@@ -63,7 +63,7 @@ export default function About() {
             {/* The actual photo container */}
             <div className="relative aspect-[4/5] sm:aspect-[3/4] bg-neutral-900 rounded-2xl overflow-hidden border-2 border-[#1b4332]/40 shadow-2xl">
               <img
-                src="src/images/IMG20251012072715.jpeg"
+                src="/images/IMG20251012072715.jpeg"
                 alt="Monoj Kumar B K leading a trek"
                 className="w-full h-full object-cover transition-transform duration-700 group-hover:scale-105"
                 referrerPolicy="no-referrer"

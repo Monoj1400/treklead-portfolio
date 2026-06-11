@@ -228,7 +228,7 @@ experienceStory: "As our group approached the final ridge section, dense clouds 
     ],
     lessonsLearned: "A trek leader is also an educator. When trekkers are mentally engaged in historical stories, their metabolic exhaustion drops significantly.",
     description: "A scenic hill trek passing by a gorgeous lake and leading to ancient fort ruins sitting atop giant granite boulder faces.",
-    imageUrl: "/images/Makalidurga0.jpeg",
+    imageUrl: "/images/mkv.jpg",
     gallery: [
       "/images/Mkl01.jpeg",
       "/images/mkl02.jpeg"
