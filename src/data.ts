@@ -1,7 +1,7 @@
 import { Trek, TimelineEvent, LeadershipStory, Testimonial, FitnessRoutine, FutureGoal } from './types';
 
 export const PERSONAL_INFO = {
-  name: "Monoj Kumar B K",
+  name: "Manoj Kumar B K",
   title: "Professional Trek Leader & Outdoor Facilitator",
   shortTitle: "Trek Leader • Facilitator • Coordinator",
   tagline: "Karnataka Trails Today. Himalayan Trails Tomorrow.",
