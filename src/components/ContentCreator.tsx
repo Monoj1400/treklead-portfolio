@@ -60,7 +60,7 @@ export default function ContentCreator() {
               {/* Feed Image */}
               <div className="relative aspect-square overflow-hidden bg-neutral-950">
                 <img
-                  src="src/images/WhatsApp Image 2026-06-10 at 12.07.00 PM.jpeg"
+                  src="/images/WhatsApp Image 2026-06-10 at 12.07.00 PM.jpeg"
                   alt="Epic Feed Post"
                   className="w-full h-full object-cover"
                   referrerPolicy="no-referrer"

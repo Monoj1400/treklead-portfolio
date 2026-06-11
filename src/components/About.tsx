@@ -63,8 +63,8 @@ export default function About() {
             {/* The actual photo container */}
             <div className="relative aspect-[4/5] sm:aspect-[3/4] bg-neutral-900 rounded-2xl overflow-hidden border-2 border-[#1b4332]/40 shadow-2xl">
               <img
-                src="/images/IMG20251012072715.jpeg"
-                alt="Monoj Kumar B K leading a trek"
+                src="/images/IMG20251012072715.jpg"
+                alt="Manoj Kumar B K leading a trek"
                 className="w-full h-full object-cover transition-transform duration-700 group-hover:scale-105"
                 referrerPolicy="no-referrer"
               />
